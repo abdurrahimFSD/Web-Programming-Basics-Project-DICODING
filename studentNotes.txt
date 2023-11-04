@@ -1,0 +1,12 @@
+** Student's Notes **
+** Fitur JavaScript yang Diterapkan **
+
+1. Menu Toggle untuk Layar Kecil:
+   - Saya telah menambahkan tombol toggle menu pada layar kecil untuk meningkatkan pengalaman pengguna pada perangkat seluler. Tombol ini memungkinkan pengguna untuk membuka dan menutup menu navigasi dengan mudah.
+
+   Cara mengaksesnya: Untuk mengakses tombol toggle menu, cukup klik pada ikon tiga garis horizontal yang muncul pada pojok kiri atas ketika lebar layar kurang dari 768px.
+
+2. Dropdown Menu Navigasi:
+   - Ketika layar memiliki lebar kurang dari 768px, menu navigasi akan menjadi dropdown menu untuk menghemat ruang dan memberikan tampilan yang lebih bersih pada perangkat seluler.
+
+   Cara mengaksesnya: Setelah mengklik tombol toggle menu, Anda akan melihat daftar opsi navigasi yang muncul dalam bentuk dropdown. Klik pada salah satu opsi untuk mengakses halaman terkait.
